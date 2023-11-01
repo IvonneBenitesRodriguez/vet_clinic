@@ -84,7 +84,7 @@ Clone this repository to your desired folder:
 
 > Mention all of the collaborators of this project.
 
-🌸**Author**
+🌸**Author** Ivonne Benites Rodriguez <br/>
 
 - GitHub: [@githubhandle](https://github.com/IvonneBenitesRodriguez)
 - Twitter: [@twitterhandle](https://twitter.com/IvonneBenitesR)
