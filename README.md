@@ -39,6 +39,9 @@ that have received treatment at the clinic.<br/>
 - **[Insert data]**
 - **[Store data]**
 - **[Query data]**
+- **[Update data]**
+- **[ROLLBACK]**
+- **[Delete Data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,8 +81,8 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Update the table]**
-- [ ] **[Create multiple tables]**
+- [ ] **[User authentication]**
+- [ ] **[Appointment scheduling]**
 - [ ] **[Join tables]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
