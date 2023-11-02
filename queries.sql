@@ -31,22 +31,18 @@ BEGIN;
 
 UPDATE animals
 SET species = 'unspecified';
-COMMIT;
-SELECT * FROM animals;
 
---Second Transaction
-BEGIN;
-UPDATE animals
-SET species = ' ';
-SELECT * FROM animals;
+SELECT species from animals;
 ROLLBACK;
+
+SELECT species FROM animals;
 
 --Transaction
 /* Update the animals table by setting the species column to digimon
 for all animals that have a name ending in mon */
 BEGIN;
 UPDATE animals
-SET species = 'digimon';
+SET species = 'digimon'
 WHERE name LIKE '%mon';
 SELECT * FROM animals
 
@@ -55,7 +51,11 @@ to pokemon for all animals that do not have species already set*/
 UPDATE animals
 SET species='pokemon'
 WHERE species IS NULL OR TRIM(species)='';
-SELECT count(*) FROM animals WHERE species='pokemon';
+
+SELECT * FROM animals;
+
+COMMIT;
+
 SELECT * FROM animals;
 
 /*delete all records in the animals table, then roll back the transaction */
