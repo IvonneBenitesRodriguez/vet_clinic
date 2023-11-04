@@ -18,8 +18,10 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [vet_clinic] <a name="about-project"></a>
-*Vet Clinic* is a relational database which helps us to keep records of animals
-that have received treatment at the clinic.<br/>
+*Vet Clinic* is a relational database which helps us to keep records of animals that have received treatment at the clinic.
+This database helps us to list all veterinarians and their specialities, 
+also to identify the most animal who has the most visits to veterinarians, and also details for most recent animal's visits. Between other important data.
+<br/>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,6 +44,10 @@ that have received treatment at the clinic.<br/>
 - **[Update data]**
 - **[ROLLBACK]**
 - **[Delete Data]**
+- **[Primary Key & Foreign Key]**
+- **[Prepare complex queries]**
+- **[Understand different types of relationship between tables]**
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,9 +79,9 @@ Clone this repository to your desired folder:
 
 🌸**Author** Ivonne Benites Rodriguez <br/>
 
-- GitHub: [@githubhandle](https://github.com/IvonneBenitesRodriguez)
-- Twitter: [@twitterhandle](https://twitter.com/IvonneBenitesR)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivonnebenites/)
+- 🌷GitHub: [@githubhandle](https://github.com/IvonneBenitesRodriguez)
+- 🌷Twitter: [@twitterhandle](https://twitter.com/IvonneBenitesR)
+- 🌷LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivonnebenites/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,7 +89,7 @@ Clone this repository to your desired folder:
 
 - [ ] **[User authentication]**
 - [ ] **[Appointment scheduling]**
-- [ ] **[Join tables]**
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
