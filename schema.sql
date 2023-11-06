@@ -72,3 +72,11 @@ ALTER TABLE visits ADD PRIMARY KEY (animal_id, vet_id, visit_date);
 /* database performance audit */
 -- Add an email column to your owners table
 ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+/* improving execution time strategies */
+ANALYZE visits;
+
+CREATE INDEX idx_animal_id ON visits (animal_id);
+
+CREATE INDEX idx_vet_id ON visits (vet_id);
+
