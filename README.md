@@ -47,6 +47,7 @@ also to identify the most animal who has the most visits to veterinarians, and a
 - **[Primary Key & Foreign Key]**
 - **[Prepare complex queries]**
 - **[Understand different types of relationship between tables]**
+- **[Performance & Audit]**
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -82,6 +83,18 @@ Clone this repository to your desired folder:
 - 🌷GitHub: [@githubhandle](https://github.com/IvonneBenitesRodriguez)
 - 🌷Twitter: [@twitterhandle](https://twitter.com/IvonneBenitesR)
 - 🌷LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivonnebenites/)
+  
+👤 *Gilbert  Dushimimana Happi*
+
+- Github: [Gilbert Happi Dushimimana](https://github.com/gilberthappi)
+- X: [Gilbert Happi Dushimimana](https://twitter.com/DushimimanaGil3)
+- LinkedIn: [Gilber Happi Dushimimana](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
+
+👤 *Jose Raul Mojica*
+
+- GitHub: [@Joramot](https://github.com/joramot)
+- Twitter: [@El_rulis](https://twitter.com/el_rulis)
+- LinkedIn: [jose-RM](https://linkedin.com/in/jose-RM)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
