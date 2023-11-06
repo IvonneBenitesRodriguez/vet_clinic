@@ -89,14 +89,15 @@ Clone this repository to your desired folder:
 - Github: [Gilbert Happi Dushimimana](https://github.com/gilberthappi)
 - X: [Gilbert Happi Dushimimana](https://twitter.com/DushimimanaGil3)
 - LinkedIn: [Gilber Happi Dushimimana](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
-
+ 
 👤 *Jose Raul Mojica*
 
 - GitHub: [@Joramot](https://github.com/joramot)
 - Twitter: [@El_rulis](https://twitter.com/el_rulis)
 - LinkedIn: [jose-RM](https://linkedin.com/in/jose-RM)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
